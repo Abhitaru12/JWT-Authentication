@@ -16,7 +16,6 @@ namespace JWTDemo.Controllers
         {
             _authService = authService;
         }
-        
 
         // POST api/<AuthController>
         [HttpPost]
